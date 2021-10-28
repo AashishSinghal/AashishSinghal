@@ -1,3 +1,4 @@
+# Hello, folks! <img src="https://github.com/AashishSinghal/AashishSinghal/blob/1d8d6e4dc8f83a6776439ee58fd11ae3a5dc3cc9/wave.gif" width="30px">
 ### Hi there 👋
 
 <!--
