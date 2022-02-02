@@ -1,5 +1,5 @@
 # Hello, folks! <img src="https://github.com/AashishSinghal/AashishSinghal/blob/1d8d6e4dc8f83a6776439ee58fd11ae3a5dc3cc9/wave.gif" width="30px">
-### Hi there, i am still working on developing this README file. Till then please check out my website here 👉 <a href="hhtp://aashishsinghal.com" target="_blank"> www.aashishsinghal.com</a>
+### Hi there, i am still working on developing this README file. Till then please check out my website here 👉 <a href="https://aashishsinghal.com" target="_blank" rel="noopener noreferrer"> www.aashishsinghal.com</a>
 
 ## &#x1f4c8; GitHub Stats
 
