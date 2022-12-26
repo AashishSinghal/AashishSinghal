@@ -19,7 +19,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AashishSinghal&repo=search-users&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://app.daily.dev/barbarian0n0"><img src="https://api.daily.dev/devcards/7f832f058a4242f093cc888347c73838.png?r=58g" width="400" alt="Aashish Singhal's Dev Card"/></a>
+<a href="https://app.daily.dev/barbarian0n0"><img src="https://github.com/AashishSinghal/AashishSinghal/blob/main/devcard.svg" width="400" alt="Aashish Singhal's Dev Card"/></a>
 
 <!--
 **AashishSinghal/AashishSinghal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
