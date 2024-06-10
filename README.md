@@ -1,3 +1,18 @@
+<div id="header" align="center">
+  <h2> Hi 👋 I'm Aashish Singhal.</h2>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/iamaashish5/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/BarbarianO_o">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+    <a href="https://aashishsinghal.com/">
+      <img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog Badge"/>
+    </a>
+  </div>
+</div>
+
 # Hello, folks! <img src="https://github.com/AashishSinghal/AashishSinghal/blob/1d8d6e4dc8f83a6776439ee58fd11ae3a5dc3cc9/wave.gif" width="30px">
 ### Hi there, i am still working on developing this README file. Till then please check out my website here 👉 <a href="hhtp://aashishsinghal.com" target="_blank"> www.aashishsinghal.com</a>
 
