@@ -34,7 +34,7 @@ I am a Full Stack Develop, Designer, Serial web browser, an open source tech ent
 </a>
 <a href="https://app.daily.dev/barbarian0n0"><img src="https://github.com/AashishSinghal/AashishSinghal/blob/main/devcard.svg" width="400" alt="Aashish Singhal's Dev Card"/></a>
 
-- 🔭 I’m currently working on -
+#### 🔭 I’m currently working on :
   * Documenting my journey of learning DSA and Competitive coding.
   * A collaborative portal to watch media together
   * Open Source contributions to the tools I love and use daily.
