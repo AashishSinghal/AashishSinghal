@@ -58,7 +58,7 @@ I am a Full Stack Develop, Designer, Serial web browser, an open source tech ent
 </a> -->
 </div>
 
-#### {} daily.dev Card :
+#### 📁 daily.dev Card :
 <a href="https://app.daily.dev/barbarian0n0"><img src="https://github.com/AashishSinghal/AashishSinghal/blob/main/devcard.svg" width="400" alt="Aashish Singhal's Dev Card"/></a>
 
 
